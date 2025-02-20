@@ -1,0 +1,38 @@
+RT-PEN101 tryhackme WALKTHROUGH
+Alenjos
+Alenjos
+
+·
+Follow
+
+2 min read
+·
+2 days ago
+
+
+
+THIS IS A BRIEF WALKTHROUGH OF THE TRYHACKME ROOM RT-PEN101
+
+STEP 1 — — — — — SCANNING TARGET AFTER CONNECTING THM VPN
+
+
+STEP 2 — — — — — — — — — PERFORMING DIRECTORY ENUMERATION ON THE TARGET
+
+
+STEP 3 — — — — PERFORMING HYDRA….WRATH
+
+AFTER SEARCHING ALL THE RESEARCHING ON THESE LINKS couldnt find anything so did a hydra shh using the : “SECLISTS “ downlaod the seclists if not present in ur linux system.then run hydra as follows on the target machine
+
+
+STEP4 — — — — — SSH login WITH THE CRACKED INFO
+
+STEP5 — — — — — — — -GAIN ROOT ACCESS by sudo su lol i know it was that simple who imagined right
+
+
+THERE YOU GO …! we learned a new way of using hydra that was the game changer of this room to gain the root access of the target system…
+
+==========$HAVE A GOOD DAY FELLOW HACKER $================
+
+
+
+USE THIS LINK FOR WALKTHROUGH WITH PICTURES ----------   https://medium.com/@alenjos44/rt-pen101-tryhackme-walkthrough-d6957d514ea3
