@@ -31,8 +31,9 @@ STEP5 — — — — — — — -GAIN ROOT ACCESS by sudo su lol i know it was
 
 THERE YOU GO …! we learned a new way of using hydra that was the game changer of this room to gain the root access of the target system…
 
-==========$HAVE A GOOD DAY FELLOW HACKER $================
-
-
-
+==========$HAVE A GOOD DAY FELLOW HACKER $================ READ THE BELOW STATEMENT
+⇕⇕..............................⇕⇕..............................................⇕⇕
+⇕⇕⇕
+⇕⇕
+⇕⇕..............................⇕⇕..............................................⇕⇕
 USE THIS LINK FOR WALKTHROUGH WITH PICTURES ----------   https://medium.com/@alenjos44/rt-pen101-tryhackme-walkthrough-d6957d514ea3
